@@ -7,6 +7,7 @@
     <list default="true" id="799b6f00-13df-4c08-ad7e-2237015e854e" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/FormTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/InputNameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/InputPhoneTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
